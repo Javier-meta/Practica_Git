@@ -1,2 +1,2 @@
 # Practica_Git
-Mi primera practica
+cambio de nombre
